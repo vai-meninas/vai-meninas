@@ -20,14 +20,14 @@ Por meio de oficinas práticas e presenciais, as participantes são introduzidas
 ## 🛠️ O que as alunas aprendem
 
 - Lógica de programação
-- Desenvolvimento web (HTML, CSS, JavaScript)
+- Desenvolvimento web (HTML, CSS)
 - Criação de sites responsivos
 - Publicação e hospedagem de projetos
 - Construção de portfólio profissional
 
 ## 👥 Público-Alvo
 
-Alunas do ensino fundamental e médio de escolas públicas e particulares da região de Ouro Branco - MG.
+Alunas do ensino fundamental e médio de escolas públicas da região de Ouro Branco - MG.
 
 ## 🌐 Site do Projeto
 
